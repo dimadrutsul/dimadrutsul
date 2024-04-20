@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **React, JS, Node.JS and MongoDB**
 
-💬 Feel free to ask me anything, will be happy to chat with you :)**
+💬 **Feel free to ask me anything, will be happy to chat with you :)**
 
 ⚡ Fun fact **A horse normally has more the one horsepower**
 
